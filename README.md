@@ -1,86 +1,80 @@
 <div align="center">
-  
-  <!-- Animated Typing Header -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B+I'm+Barsam+Baghbanzadeh;14yo+AI+Researcher+%26+Developer;Federated+Learning+Architect;Building+the+Future+from+Iran+%F0%9F%87%AE%F0%9F%87%B7" alt="Typing SVG" /></a>
 
-  <!-- Profile Views & Followers Counter -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=BarsamBaghbanzadeh-IR&label=Profile%20Views&color=6366f1&style=flat-square" alt="views" />
-    <img src="https://img.shields.io/github/followers/BarsamBaghbanzadeh-IR?label=Followers&style=social" alt="followers" />
-  </p>
+# 🧠 Barsam AI Platform | پلتفرم هوش مصنوعی برسام
+### 🚀 The Future of AI, Built by a 14-Year-Old from Iran 🇮🇷
 
-  <!-- Main CTA Button to your LIVE Website -->
-  <a href="https://barsambaghbanzadeh-ir.github.io/barsam-official-website/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_LAUNCH_LIVE_AI_PLATFORM-ONLINE-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0f" alt="Launch Platform"/>
-  </a>
+![Version](https://img.shields.io/badge/Version-3.0_2027_Edition-6366f1?style=for-the-badge&logo=semver)
+![Python](https://img.shields.io/badge/Python-Learning_&_Building-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/Federated_Learning-Active-10b981?style=for-the-badge&logo=artificialintelligence)
+![Made In Iran](https://img.shields.io/badge/Made_In-Iran_🇮🇷-ef4444?style=for-the-badge)
+![Age](https://img.shields.io/badge/Founder-14_Years_Old-f59e0b?style=for-the-badge)
+![Languages](https://img.shields.io/badge/Languages-8+_Global-8b5cf6?style=for-the-badge)
 
-</div>
+<br />
 
-<br>
+> *"من ادعا نمی‌کنم که دنیا را تغییر داده‌ام؛ من فقط یک نوجوان ۱۴ ساله از رشت هستم که هر روز پایتون یاد می‌گیرد، کد می‌زند و تلاش می‌کند تا آینده هوش مصنوعی را از ایران بسازد. این پلتفرم، آزمایشگاه من است."*
+> **— برسام باغبان‌زاده (Barsam Baghbanzadeh)**
 
-## 🧠 The Prodigy Architect
+<br />
 
-> *"I don't just write code; I architect privacy-preserving intelligence."*
+[🌐 مشاهده پلتفرم زنده](https://barsambaghbanzadeh-ir.github.io/Barsam/) • [🐙 دنبال کردن در گیت‌هاب](https://github.com/barsam1390) • [📧 ارتباط با من](mailto:barsam.baghbanzadeh@example.com)
 
-I am a **14-year-old AI Researcher** based in Rasht, Iran 🇮🇷. While others are learning syntax, I am building **Federated Learning infrastructures** for healthcare. My mission is to bridge the gap between **Artificial Intelligence** and **Medicine** (Dentistry), ensuring data privacy while revolutionizing diagnostics.
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🎯 Current Focus</h3>
-      <p>Building a <b>Federated Learning Platform</b> that allows hospitals to train AI models without sharing patient data.</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🏆 Achievements</h3>
-      <p>🎓 <b>Sharif University</b> AI Certified<br>📄 Published Researcher in FL Healthcare<br>⚡ Built a 20+ Language AI OS at age 14</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tech Arsenal & Neural Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,html,css,js,github,vscode,linux,bash,docker" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Federated_Learning-Expert-6366f1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Differential_Privacy-Advanced-ec4899?style=flat-square" />
-  <img src="https://img.shields.io/badge/Edge_AI-Developer-06b6d4?style=flat-square" />
 </div>
 
 ---
 
-### 📊 Performance Metrics & GitHub Stats
+## 🇮🇷 داستان واقعی: از رشت تا مرزهای دانش (The Real Story)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BarsamBaghbanzadeh-IR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=6366f1&icon_color=ec4899&text_color=a1a1aa" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BarsamBaghbanzadeh-IR&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=6366f1&ring=ec4899&fire=f59e0b" width="48%" />
-</div>
+دوست من، در دنیای اینترنت پر از ادعاهای دروغین است. برخی می‌گویند با بیمارستان‌های فلوریدا یا دانشگاه‌های هاروارد کار می‌کنند. **اما واقعیت من چیز دیگری است و به آن افتخار می‌کنم:**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarsamBaghbanzadeh-IR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=6366f1&text_color=a1a1aa" width="40%" />
-</div>
+من **برسام** هستم. یک دانش‌آموز **۱۴ ساله** (پایه هشتم/نهم) از شهر باران، **رشت، ایران**. 
+من هنوز در حال یادگیری عمیق **پایتون (Python)**، **یادگیری ماشین (Machine Learning)** و **ریاضیات هوش مصنوعی** هستم. این پلتفرم یک پروژه شرکتی نیست؛ بلکه **آزمایشگاه شخصی** من است که در اتاقم، با یک لپ‌تاپ و عشق بی‌پایان به تکنولوژی، خط به خط آن را کدنویسی کرده‌ام.
+
+هدف من پول یا شهرت نیست؛ هدف من این است که ثابت کنم **یک نوجوان ایرانی** می‌تواند با تکیه بر تلاش، یادگیری مستمر و "هرگز تسلیم نشدن"، پلتفرمی بسازد که با غول‌های تکنولوژی در سال ۲۰۲۷ رقابت کند.
 
 ---
 
-### 🌐 Connect with the Future
+## 🧬 هسته مرکزی پلتفرم (Core Technologies)
 
-<div align="center">
-  <a href="mailto:barsam.baghbanzadeh@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://barsambaghbanzadeh-ir.github.io/barsam-official-website/">
-    <img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</div>
+این پروژه شامل پیاده‌سازی واقعی مفاهیم پیشرفته هوش مصنوعی در مرورگر وب (Edge AI) است:
 
-<br>
+- 🌐 **یادگیری فدرال (Federated Learning):** شبیه‌ساز واقعی الگوریتم‌های `FedAvg` و `FedProx` برای آموزش مدل‌ها بدون نقض حریم خصوصی داده‌ها.
+- 🧠 **هسته عصبی تعاملی (Neural Core):** مصورسازی زنده شبکه‌های عصبی با استفاده از `Three.js` و `Canvas API`.
+- 🛡️ **دفاع سایبری زنده:** نقشه اروپایی از حملات و دفاع‌های سایبری شبیه‌سازی شده در زمان واقعی.
+- 💻 **ترمینال و OS هوش مصنوعی:** یک سیستم‌عامل تحت وب با قابلیت اجرای کدهای پایتون در Sandbox و پردازش تنسورها.
+- 🎙️ **بیومتریک صوتی و چت‌بات:** دستیار هوشمند با قابلیت تشخیص صدا (Speech Recognition) و تولید گفتار (TTS).
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+---
 
-<p align="center">
-  <i>Building the future of AI from Iran, one line of code at a time.</i> 🇮🇷
-</p>
+## 🌍 موتور ترجمه جهانی (Global Reach)
+
+هوش مصنوعی مرز نمی‌شناسد. پلتفرم من با یک موتور ترجمه زنده (Live Translation Engine) به **۸ زبان اصلی دنیا** در دسترس است تا همه بتوانند با آن ارتباط برقرار کنند:
+
+| 🇮🇷 فارسی (Persian) | 🇬🇧 English | 🇸🇦 العربية (Arabic) | 🇹🇷 Türkçe (Turkish) |
+| :---: | :---: | :---: | :---: |
+| **🇨🇳 中文 (Chinese)** | **🇫🇷 Français** | **🇩🇪 Deutsch** | **🇪🇸 Español** |
+
+---
+
+## 🛠️ در حال یادگیری و ساخت (My Tech Stack)
+
+من هر روز در حال یادگیری این تکنولوژی‌ها هستم و آن‌ها را در این پروژه پیاده‌سازی می‌کنم:
+
+```python
+class BarsamJourney:
+    def __init__(self):
+        self.age = 14
+        self.location = "Rasht, Iran 🇮🇷"
+        self.current_status = "Learning & Coding Every Day"
+        self.never_give_up = True
+
+    def skills_in_progress(self):
+        return {
+            "Python": "🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (85%)",
+            "Machine Learning": "🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ (75%)",
+            "Deep Learning": "🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ (60%)",
+            "Frontend & 3D": "🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ (90%)"
+        }
+
+    def motto(self):
+        return "The only way to predict the future is to code it. 🚀"

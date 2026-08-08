@@ -1,17 +1,17 @@
 <div align="center">
   
-  <!-- Animated Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B+I'm+Barsam+Baghbanzadeh;14-Year-Old+AI+Researcher;Federated+Learning+Architect;Building+the+Future+from+Iran+%F0%9F%87%AE%F0%9F%87%B7" alt="Typing SVG" />
+  <!-- Animated Typing Header -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B+I'm+Barsam+Baghbanzadeh;14yo+AI+Researcher+%26+Developer;Federated+Learning+Architect;Building+the+Future+from+Iran+%F0%9F%87%AE%F0%9F%87%B7" alt="Typing SVG" /></a>
 
-  <!-- Profile Views & Followers -->
+  <!-- Profile Views & Followers Counter -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=BarsamBaghbanzadeh-IR&label=Profile%20Views&color=6366f1&style=flat-square" alt="views" />
     <img src="https://img.shields.io/github/followers/BarsamBaghbanzadeh-IR?label=Followers&style=social" alt="followers" />
   </p>
 
-  <!-- Main CTA Button -->
-  <a href="https://barsambaghbanzadeh-ir.github.io/Barsam/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_LAUNCH_AI_PLATFORM-LIVE-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0f" alt="Launch Platform"/>
+  <!-- Main CTA Button to your LIVE Website -->
+  <a href="https://barsambaghbanzadeh-ir.github.io/barsam-official-website/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_LAUNCH_LIVE_AI_PLATFORM-ONLINE-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0f" alt="Launch Platform"/>
   </a>
 
 </div>
@@ -51,7 +51,7 @@ I am a **14-year-old AI Researcher** based in Rasht, Iran 🇮🇷. While others
 
 ---
 
-### 📊 Performance Metrics
+### 📊 Performance Metrics & GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BarsamBaghbanzadeh-IR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=6366f1&icon_color=ec4899&text_color=a1a1aa" width="48%" />
@@ -70,10 +70,7 @@ I am a **14-year-old AI Researcher** based in Rasht, Iran 🇮🇷. While others
   <a href="mailto:barsam.baghbanzadeh@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/barsam1390">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://barsambaghbanzadeh-ir.github.io/Barsam/">
+  <a href="https://barsambaghbanzadeh-ir.github.io/barsam-official-website/">
     <img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </div>

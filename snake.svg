@@ -1,86 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="100%">
-  <defs>
-    <!-- Gradient for snake body -->
-    <linearGradient id="bodyGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#1a5f1a;stop-opacity:1" />
-      <stop offset="25%" style="stop-color:#2d8f2d;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#3776AB;stop-opacity:1" />
-      <stop offset="75%" style="stop-color:#FFD43B;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1a5f1a;stop-opacity:1" />
-    </linearGradient>
-    
-    <!-- Glow effect -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    
-    <!-- Scale pattern -->
-    <pattern id="scales" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-      <circle cx="10" cy="10" r="8" fill="rgba(255,255,255,0.1)" />
-    </pattern>
-  </defs>
-  
-  <!-- Snake Body - Thick and Muscular -->
-  <path id="snakeBody" d="M0,100 Q150,30 300,100 T600,100 T900,100 L1000,100" 
-        fill="none" stroke="url(#bodyGrad)" stroke-width="35" stroke-linecap="round" filter="url(#glow)">
-    <animate attributeName="d" dur="4s" repeatCount="indefinite" 
-             values="M0,100 Q150,30 300,100 T600,100 T900,100 L1000,100;
-                     M0,100 Q150,170 300,100 T600,100 T900,100 L1000,100;
-                     M0,100 Q150,30 300,100 T600,100 T900,100 L1000,100" />
-  </path>
-  
-  <!-- Scale overlay -->
-  <path d="M0,100 Q150,30 300,100 T600,100 T900,100 L1000,100" 
-        fill="none" stroke="url(#scales)" stroke-width="35" stroke-linecap="round" opacity="0.3">
-    <animate attributeName="d" dur="4s" repeatCount="indefinite" 
-             values="M0,100 Q150,30 300,100 T600,100 T900,100 L1000,100;
-                     M0,100 Q150,170 300,100 T600,100 T900,100 L1000,100;
-                     M0,100 Q150,30 300,100 T600,100 T900,100 L1000,100" />
-  </path>
-  
-  <!-- Snake Head -->
-  <g id="snakeHead">
-    <ellipse cx="950" cy="100" rx="45" ry="35" fill="#FFD43B" filter="url(#glow)">
-      <animate attributeName="cy" dur="4s" repeatCount="indefinite" values="100;100;100" />
-    </ellipse>
-    
-    <!-- Eyes -->
-    <circle cx="935" cy="90" r="8" fill="#000">
-      <animate attributeName="r" dur="2s" repeatCount="indefinite" values="8;6;8" />
-    </circle>
-    <circle cx="965" cy="90" r="8" fill="#000">
-      <animate attributeName="r" dur="2s" repeatCount="indefinite" values="8;6;8" />
-    </circle>
-    
-    <!-- Eye glow -->
-    <circle cx="935" cy="90" r="4" fill="#00FF9F">
-      <animate attributeName="opacity" dur="1s" repeatCount="indefinite" values="1;0.5;1" />
-    </circle>
-    <circle cx="965" cy="90" r="4" fill="#00FF9F">
-      <animate attributeName="opacity" dur="1s" repeatCount="indefinite" values="1;0.5;1" />
-    </circle>
-    
-    <!-- Forked Tongue -->
-    <g id="tongue">
-      <path d="M995,100 L1020,100 M995,100 L1015,95 M995,100 L1015,105" 
-            stroke="#ff0000" stroke-width="3" fill="none" stroke-linecap="round">
-        <animate attributeName="opacity" dur="0.8s" repeatCount="indefinite" values="1;0;1" />
-        <animateTransform attributeName="transform" type="translate" dur="0.8s" repeatCount="indefinite" 
-                          values="0,0; 10,0; 0,0" />
-      </path>
-    </g>
-  </g>
-  
-  <!-- Tail -->
-  <path d="M0,100 L-30,100 L-50,95 L-70,100" 
-        fill="none" stroke="url(#bodyGrad)" stroke-width="15" stroke-linecap="round" filter="url(#glow)">
-    <animate attributeName="d" dur="4s" repeatCount="indefinite" 
-             values="M0,100 L-30,100 L-50,95 L-70,100;
-                     M0,100 L-30,100 L-50,105 L-70,100;
-                     M0,100 L-30,100 L-50,95 L-70,100" />
-  </path>
-</svg>
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # هر 6 ساعت آپدیت می‌شود
+  workflow_dispatch: # امکان اجرای دستی
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # مرحله 1: ساخت انیمیشن مار
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      # مرحله 2: انتشار در شاخه output (نسخه اصلاح شده)
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4.1.0 # آپدیت به نسخه پایدارتر
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,51 +1,65 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&animation=twinkling&color=gradient&height=200&section=header&text=BARSAM+BAGHBANZADEH&fontSize=70&fontAlignY=35&desc=AI%20Researcher%20|%20Federated%20Learning%20|%20HealthTech&descAlignY=80&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&animation=twinkling&color=gradient&height=250&section=header&text=BARSAM+BAGHBANZADEH&fontSize=80&fontAlignY=35&desc=14yo%20AI%20Researcher%20|%20Iran%20🇮🇷&descAlignY=80&descAlign=62" width="100%"/>
 </div>
 
-<h1 align="center">👋 سلام، من برسام هستم! | Hi, I'm Barsam!</h1>
+<h1 align="center">🐍 The Python Journey | مسیر یادگیری پایتون</h1>
 
 <p align="center">
-  <a href="#-about-me"><strong>درباره من</strong></a> •
-  <a href="#-my-mission"><strong>ماموریت من</strong></a> •
-  <a href="#-tech-stack"><strong>تکنولوژی‌ها</strong></a> •
-  <a href="#-achievements"><strong>دستاوردها</strong></a> •
-  <a href="#-connect-with-me"><strong>ارتباط با من</strong></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&height=50&lines=Learning+Python...;Mastering+AI...;Building+Future..." alt="Typing Effect"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghp-readme-view-counter/api?user=barsambaghbanzadeh-ir&repo=barsambaghbanzadeh-ir" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/barsambaghbanzadeh-ir?label=Followers&style=social" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/barsambaghbanzadeh-ir?style=social" alt="Stars"/>
-</p>
+<div align="center">
+  <!-- Animated Snake SVG -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 100" width="500" height="100">
+    <defs>
+      <linearGradient id="snakeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#3776AB;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#FFD43B;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <path d="M10,50 Q50,10 90,50 T170,50 T250,50 T330,50 T410,50 T490,50" fill="none" stroke="url(#snakeGrad)" stroke-width="8" stroke-linecap="round">
+      <animate attributeName="d" dur="3s" repeatCount="indefinite" values="M10,50 Q50,10 90,50 T170,50 T250,50 T330,50 T410,50 T490,50; M10,50 Q50,90 90,50 T170,50 T250,50 T330,50 T410,50 T490,50; M10,50 Q50,10 90,50 T170,50 T250,50 T330,50 T410,50 T490,50" />
+    </path>
+    <circle cx="490" cy="50" r="10" fill="#FFD43B">
+      <animate attributeName="cx" dur="3s" repeatCount="indefinite" values="10;490;10" />
+      <animate attributeName="cy" dur="3s" repeatCount="indefinite" values="50;50;50" />
+    </circle>
+  </svg>
+  <br>
+  <sub><i>در حال یادگیری عمیق پایتون و هوش مصنوعی...</i></sub>
+</div>
 
 ---
 
 ### 🚀 About Me | درباره من
 
-> *"Building the future where technology serves human health."*
+> *"Age is just a number; Impact is everything."*
 
-من **برسام باغبان‌زاده**، یک پژوهشگر ۱۳ ساله و توسعه‌دهنده هوش مصنوعی از رشت، ایران هستم. تمرکز اصلی من بر روی تقاطع **یادگیری فدرال (Federated Learning)** و **سلامت دیجیتال** است. من معتقدم که حریم خصوصی بیماران نباید فدای پیشرفت هوش مصنوعی شود، بلکه این دو باید همسو شوند.
+سلام! من **برسام باغبان‌زاده** هستم. یک پژوهشگر **۱۴ ساله** اهل **رشت، ایران** 🇮🇷.
+من اینجا هستم تا قوانین بازی هوش مصنوعی را تغییر دهم. تمرکز من بر روی **یادگیری فدرال (Federated Learning)** و **سلامت دیجیتال** است. جایی که حریم خصوصی بیماران با قدرت هوش مصنوعی آشتی می‌کند.
 
-- 🔭 در حال حاضر روی **شبیه‌سازهای یادگیری فدرال غیر-IID** کار می‌کنم.
-- 🌱 در حال یادگیری **Deep Reinforcement Learning** و **Quantum Computing** هستم.
-- 💬 درباره **Privacy-Preserving ML** و **Medical Imaging** از من بپرسید.
-- 📫 ایمیل: `barsam.baghbanzadeh@example.com`
-
----
-
-### 🎯 My Mission & Goals | اهداف من
-
-من به دنبال رهبری سیاسی نیستم؛ هدف من **رهبری علمی و تکنولوژیک** است. می‌خواهم مرزهای دانش را جابجا کنم.
-
-| هدف کوتاه مدت (Short-term) | هدف بلند مدت (Long-term) |
-| :--- | :--- |
-| ✅ انتشار مقاله در کنفرانس‌های بین‌المللی AI | 🏆 تأسیس اولین استارتاپ HealthTech مبتنی بر FL در خاورمیانه |
-| ✅ تسلط کامل بر PyTorch و TensorFlow | 🌍 ایجاد استانداردهای جهانی برای حریم خصوصی داده‌های پزشکی |
-| ✅ توسعه مدل‌های تشخیص بیماری با دقت >95% | 🎓 تدریس و منتورینگ نسل بعدی پژوهشگران ایرانی |
+- 🔭 **Current Focus:** یادگیری پیشرفته Python & AI Algorithms
+- 🌱 **Goal:** ایجاد استانداردهای جهانی برای حریم خصوصی داده‌های پزشکی
+- 💡 **Fun Fact:** من در ۱۴ سالگی گواهینامه هوش مصنوعی از دانشگاه شریف دارم!
 
 ---
 
-### 🛠 Tech Stack | جعبه ابزار من
+### 🏆 Achievements & Certificates | دستاوردها و مدارک
+
+<div align="center">
+
+| 🎓 مدرک / عنوان | 🏢 مرجع / Institution | 📅 سال |
+| :--- | :--- | :--- |
+| **گواهینامه هوش مصنوعی** | دانشگاه صنعتی شریف (Sharif University) | ۱۴۰۲ |
+| **گواهینامه بین‌المللی ICDL** | سازمان فنی و حرفه‌ای | ۱۴۰۱ |
+| **مقاله پژوهشی: FL in Healthcare** | ژورنال داخلی / GitHub | ۱۴۰۳ |
+| **توسعه‌دهنده Open Source** | جامعه جهانی گیت‌هاب | مستمر |
+
+</div>
+
+---
+
+### 🛠 Tech Stack & Tools | جعبه ابزار من
 
 <p align="center">
   <img src="https://skillicons.dev/get-icons?bg=ffffff&icons=python,tensorflow,pytorch,scikitlearn,pandas,numpy,jupyter,git,github,html,css,javascript,react,docker,kubernetes,aws,azure,linux,vscode" alt="Skills"/>
@@ -69,35 +83,7 @@
 
 ---
 
-### 🏆 Achievements | دستاوردها
-
-<div align="center">
-
-| 🏅 عنوان | 🏢 مرجع | 📅 سال |
-| :--- | :--- | :--- |
-| **گواهینامه هوش مصنوعی** | دانشگاه صنعتی شریف | ۱۴۰۲ |
-| **گواهینامه بین‌المللی ICDL** | سازمان فنی و حرفه‌ای | ۱۴۰۱ |
-| **مقاله پژوهشی: FL in Healthcare** | ژورنال داخلی / GitHub | ۱۴۰۳ |
-| **توسعه‌دهنده فعال Open Source** | جامعه گیت‌هاب | مستمر |
-
-</div>
-
----
-
-### 📊 GitHub Stats | آمار گیت‌هاب
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barsambaghbanzadeh-ir&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=barsambaghbanzadeh-ir&theme=radical" width="45%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=barsambaghbanzadeh-ir&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
----
-
-### 🌐 Connect With Me | ارتباط با من
+### 🌐 Global Connect | ارتباط جهانی
 
 <p align="center">
   <a href="https://github.com/barsambaghbanzadeh-ir" target="_blank">
@@ -116,8 +102,21 @@
 
 ---
 
+### 📊 GitHub Stats | آمار فعالیت
+
 <div align="center">
-  <sub>ساخته شده با ❤️ و ☕ در رشت، ایران</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=barsambaghbanzadeh-ir&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=barsambaghbanzadeh-ir&theme=radical" width="45%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=barsambaghbanzadeh-ir&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+---
+
+<div align="center">
+  <sub>ساخته شده با ❤️ و ☕ در رشت، ایران | Made with Love in Rasht, Iran</sub>
   <br>
   <img src="https://profile-counter.glitch.me/barsambaghbanzadeh-ir/count.svg?" alt="Visitor Count" />
 </div>

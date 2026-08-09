@@ -1,13 +1,18 @@
 <div align="center">
   
-  <!-- CINEMATIC HEADER WITH LION & NAME -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&animation=twinkling&color=gradient&height=300&section=header&text=BARSAM+BAGHBANZADEH&fontSize=80&fontAlignY=35&desc=AI+Researcher+%7C+Federated+Learning+%7C+Rasht%2C+Iran&descAlignY=80&descAlign=62" width="100%"/>
+  <!-- CINEMATIC HEADER -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&animation=twinkling&color=gradient&customColorList=6,11,20&height=300&section=header&text=BARSAM+BAGHBANZADEH&fontSize=80&fontAlignY=35&desc=14yo+AI+Researcher+%7C+Iran+%F0%9F%87%AE%F0%9F%87%B7&descAlignY=75&descAlign=62" width="100%"/>
   
-  <h1>🦁 The Lion of AI | شیر هوش مصنوعی</h1>
+  <h1>🐍 The Python Journey | مسیر یادگیری پایتون</h1>
   
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&height=50&lines=Mastering+Python...;Leading+Federated+Learning...;Building+HealthTech+Empire..." alt="Typing Effect"/>
   </p>
+
+  <!-- ANIMATED SNAKE (NO EXTRA FILES NEEDED) -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRqM2s5dDRq......" alt="Snake Animation" width="80%" style="border-radius: 20px; box-shadow: 0 0 30px rgba(0, 255, 159, 0.5);"/>
+  <br>
+  <sub><i>🐍 My Python Learning Journey Visualization</i></sub>
 
   <!-- GLOBAL STATUS BADGES -->
   <p>
@@ -16,13 +21,6 @@
     <img src="https://img.shields.io/badge/Status-Active+Researcher-blueviolet?style=for-the-badge" alt="Status"/>
   </p>
 
-</div>
-
-<!-- ANIMATED SNAKE SECTION -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/barsambaghbanzadeh-ir/barsambaghbanzadeh-ir/output/snake.svg" alt="Snake Animation" width="80%" />
-  <br>
-  <sub><i>🐍 My Python Learning Journey Visualization</i></sub>
 </div>
 
 ---

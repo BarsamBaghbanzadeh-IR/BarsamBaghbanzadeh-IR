@@ -1,18 +1,29 @@
 <div align="center">
   
-  <!-- HEADER: Minimalist & Professional -->
-  <h1>Barsam Baghbanzadeh</h1>
+  <!-- HEADER: Professional & Identity Focused -->
+  <h1>Barsam Baghbanzadeh | برسام باغبان‌زاده</h1>
+  
   <p>
     <strong>AI Researcher | Federated Learning Specialist | HealthTech Innovator</strong>
+    <br>
+    <sub>پژوهشگر هوش مصنوعی | متخصص یادگیری فدرال | نوآور سلامت دیجیتال</sub>
   </p>
+
+  <!-- Language Switcher (Visual Only - Content is Bilingual Below) -->
   <p>
-    <img src="https://img.shields.io/badge/Location-Rasht,%20Iran-0077B5?style=flat&logo=googlemaps&logoColor=white" alt="Location"/>
-    <img src="https://img.shields.io/badge/Age-14-blueviolet?style=flat&logo=clockify&logoColor=white" alt="Age"/>
-    <img src="https://img.shields.io/badge/Education-Sharif%20University%20Cert.-red?style=flat&logo=bookstack&logoColor=white" alt="Education"/>
+    <a href="#english"><img src="https://img.shields.io/badge/English-0077B5?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English"/></a>
+    <a href="#persian"><img src="https://img.shields.io/badge/فارسی-009688?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Persian"/></a>
+  </p>
+
+  <!-- Badges: Identity & Location -->
+  <p>
+    <img src="https://img.shields.io/badge/Location-Rasht,%20Iran-%23239F40?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+    <img src="https://img.shields.io/badge/Age-14-blueviolet?style=flat-square&logo=clockify&logoColor=white" alt="Age"/>
+    <img src="https://img.shields.io/badge/Education-Sharif%20University%20Cert.-red?style=flat-square&logo=bookstack&logoColor=white" alt="Education"/>
   </p>
 
   <p>
-    <a href="mailto:barsam.baghbanzadeh@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="mailto:barsam.baghbanzadeh@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://github.com/barsambaghbanzadeh-ir"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   </p>
@@ -21,26 +32,30 @@
 
 ---
 
-### 🧠 About Me
+<a name="english"></a>
+### 🇺🇸 English Version
 
-I am a **14-year-old AI Researcher** from Rasht, Iran, passionate about the intersection of **Artificial Intelligence** and **Healthcare**. My mission is to revolutionize medical diagnostics while preserving patient privacy through **Federated Learning**.
+#### 🧠 About Me
+I am a **14-year-old AI Researcher** from **Rasht, Iran**, passionate about the intersection of **Artificial Intelligence** and **Healthcare**. My mission is to revolutionize medical diagnostics while preserving patient privacy through **Federated Learning**.
 
-Currently, I am focused on mastering **Python**, **Deep Learning**, and **Privacy-Preserving Machine Learning**. I believe that technology should serve humanity, and I am dedicated to building ethical AI solutions for the future of digital health.
+Currently, I hold an **AI Certificate from Sharif University of Technology** and am actively researching privacy-preserving machine learning models. I believe technology should serve humanity, and I am dedicated to building ethical AI solutions for the future of digital health.
 
 - 🔭 **Current Research:** Federated Learning in Healthcare (Non-IID Data Challenges).
 - 🌱 **Learning:** Advanced Python, PyTorch, and Differential Privacy.
-- 🎓 **Certifications:** AI Certificate from Sharif University of Technology, ICDL International.
+- 🎓 **Certifications:** AI Certificate (Sharif University), ICDL International.
 - 💬 **Ask me about:** Federated Learning, Medical Imaging, and Python Development.
 
----
+#### 🏆 Achievements & Certifications
+- **🎖️ AI Certificate:** Earned from **Sharif University of Technology**, demonstrating deep knowledge in Machine Learning fundamentals and Neural Networks.
+- **🎖️ ICDL International:** Certified in international computer literacy standards, including data processing and digital security.
+- **📄 Research Paper:** Authored *"Federated Learning in Healthcare: Opportunities and Challenges"*, exploring privacy-preserving AI in medical diagnostics.
+- **🚀 Open Source Contributor:** Active contributor to global AI communities and developer of multiple open-source health-tech projects.
 
-### 🛠️ Tech Stack
-
+#### 🛠️ Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/get-icons?bg=transparent&icons=python,tensorflow,pytorch,scikitlearn,pandas,numpy,jupyter,git,github,html,css,javascript,docker,kubernetes,linux,vscode&perline=10" alt="Skills"/>
 </p>
 
-#### Core Competencies
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | Python, JavaScript, HTML/CSS, SQL |
@@ -48,62 +63,66 @@ Currently, I am focused on mastering **Python**, **Deep Learning**, and **Privac
 | **Specialization** | Federated Learning, Computer Vision, NLP, Data Privacy |
 | **Tools** | Git, GitHub, Docker, Linux, VS Code, Jupyter Notebook |
 
----
-
-### 🏆 Achievements & Certifications
-
-- **🎖️ AI Certificate:** Earned from **Sharif University of Technology**, demonstrating deep knowledge in Machine Learning fundamentals and Neural Networks.
-- **🎖️ ICDL International:** Certified in international computer literacy standards, including data processing and digital security.
-- **📄 Research Paper:** Authored *"Federated Learning in Healthcare: Opportunities and Challenges"*, exploring privacy-preserving AI in medical diagnostics.
-- **🚀 Open Source Contributor:** Active contributor to global AI communities and developer of multiple open-source health-tech projects.
-
----
-
-### 📊 GitHub Stats
-
+#### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=barsambaghbanzadeh-ir&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=barsambaghbanzadeh-ir&theme=radical&hide_border=true&background=0d1117" width="49%" />
 </div>
 
+---
+
+<a name="persian"></a>
+### 🇮🇷 نسخه فارسی
+
+#### 🧠 درباره من
+من **برسام باغبان‌زاده**، یک پژوهشگر **۱۴ ساله** اهل **رشت، ایران** هستم که اشتیاق زیادی به تقاطع **هوش مصنوعی** و **سلامت دیجیتال** دارم. مأموریت من متحول کردن تشخیص‌های پزشکی با حفظ حریم خصوصی بیماران از طریق **یادگیری فدرال (Federated Learning)** است.
+
+در حال حاضر دارای **گواهینامه هوش مصنوعی از دانشگاه صنعتی شریف** هستم و به طور فعال روی مدل‌های یادگیری ماشین با حفظ حریم خصوصی پژوهش می‌کنم. من معتقدم فناوری باید در خدمت انسانیت باشد و متعهد به ساخت راهکارهای اخلاقی هوش مصنوعی برای آینده سلامت دیجیتال هستم.
+
+- 🔭 **پژوهش فعلی:** یادگیری فدرال در مراقبت‌های بهداشتی (چالش‌های داده‌های Non-IID).
+- 🌱 **در حال یادگیری:** پایتون پیشرفته، PyTorch و حریم خصوصی تفاضلی.
+- 🎓 **مدارک:** گواهینامه هوش مصنوعی (دانشگاه شریف)، گواهینامه بین‌المللی ICDL.
+- 💬 **از من بپرسید:** یادگیری فدرال، تصویربرداری پزشکی و توسعه پایتون.
+
+#### 🏆 دستاوردها و مدارک
+- **🎖️ گواهینامه هوش مصنوعی:** دریافت شده از **دانشگاه صنعتی شریف**، نشان‌دهنده دانش عمیق در مبانی یادگیری ماشین و شبکه‌های عصبی.
+- **🎖️ گواهینامه ICDL:** تسلط بر استانداردهای بین‌المللی سواد کامپیوتری، شامل پردازش داده و امنیت دیجیتال.
+- **📄 مقاله پژوهشی:** نویسنده مقاله *"یادگیری فدرال در مراقبت‌های بهداشتی: فرصت‌ها و چالش‌ها"* که به بررسی هوش مصنوعی با حفظ حریم خصوصی در تشخیص پزشکی می‌پردازد.
+- **🚀 مشارکت‌کننده متن‌باز:** مشارکت‌کننده فعال در جامعه جهانی هوش مصنوعی و توسعه‌دهنده چندین پروژه متن‌باز در حوزه سلامت.
+
+#### 🛠️ مهارت‌های فنی
+<p align="left">
+  <img src="https://skillicons.dev/get-icons?bg=transparent&icons=python,tensorflow,pytorch,scikitlearn,pandas,numpy,jupyter,git,github,html,css,javascript,docker,kubernetes,linux,vscode&perline=10" alt="Skills"/>
+</p>
+
+| حوزه | تکنولوژی‌ها |
+| :--- | :--- |
+| **زبان‌ها** | Python, JavaScript, HTML/CSS, SQL |
+| **هوش مصنوعی** | TensorFlow, PyTorch, Scikit-learn, Keras, Pandas, NumPy |
+| **تخصص** | یادگیری فدرال، بینایی ماشین، NLP، حریم خصوصی داده |
+| **ابزارها** | Git, GitHub, Docker, Linux, VS Code, Jupyter Notebook |
+
+#### 📊 آمار گیت‌هاب
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=barsambaghbanzadeh-ir&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=barsambaghbanzadeh-ir&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=barsambaghbanzadeh-ir&theme=radical&hide_border=true&background=0d1117" width="49%" />
 </div>
 
 ---
 
-### 📝 Latest Research
+### 📝 Latest Research | آخرین پژوهش
 
 #### [Federated Learning in Healthcare: Opportunities and Challenges](https://barsambaghbanzadeh-ir.github.io/Barsam/)
 > **Abstract:** This paper explores the paradigm of Federated Learning (FL) in healthcare, addressing the critical need for privacy-preserving AI models. It discusses the principles of FL, its clinical applications in medical imaging, and the technical challenges such as Non-IID data and security threats.
-
-- **Key Topics:** Federated Averaging (FedAvg), Differential Privacy, Medical Imaging, HIPAA/GDPR Compliance.
-- **Status:** Published on GitHub Pages.
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Heart Disease Prediction](#)** | ML model for predicting cardiovascular diseases with >90% accuracy using clinical data. | Python, Scikit-learn, Pandas |
-| **[Medical Image Classifier](#)** | CNN implementation for classifying medical images using TensorFlow and Keras. | TensorFlow, CNN, Keras |
-| **[Federated Simulator](#)** | A simulator for testing FL algorithms in Non-IID environments with medical datasets. | Python, PyTorch, FL |
-| **[Privacy-Preserving AI](#)** | Implementation of Differential Privacy mechanisms to protect patient data in FL models. | Privacy, DP, Security |
+>
+> **چکیده:** این مقاله به بررسی پارادایم یادگیری فدرال در حوزه سلامت می‌پردازد و نیاز حیاتی به مدل‌های هوش مصنوعی با حفظ حریم خصوصی را مورد بحث قرار می‌دهد. اصول کلیدی، کاربردهای بالینی در تصویربرداری پزشکی و چالش‌های فنی مانند داده‌های ناهمگون و تهدیدات امنیتی در این مقاله تحلیل شده‌اند.
 
 ---
 
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=barsambaghbanzadeh-ir&custom_title=Contribution+Graph&theme=radical&hide_border=true&bg_color=0d1117" />
-</div>
-
----
-
-### 🤝 Connect With Me
+### 🤝 Connect With Me | ارتباط با من
 
 I am always open to discussing new research opportunities, collaborations in HealthTech, or mentoring young developers.
+من همیشه برای بحث در مورد فرصت‌های پژوهشی جدید، همکاری در حوزه سلامت دیجیتال یا راهنمایی توسعه‌دهندگان جوان آماده‌ام.
 
 <p align="center">
   <a href="mailto:barsam.baghbanzadeh@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -114,7 +133,7 @@ I am always open to discussing new research opportunities, collaborations in Hea
 ---
 
 <div align="center">
-  <sub>Last updated: August 2026</sub>
+  <sub>Last updated: August 2026 | ساخته شده با ❤️ در رشت، ایران</sub>
   <br>
   <img src="https://profile-counter.glitch.me/barsambaghbanzadeh-ir/count.svg?" alt="Visitor Count" />
 </div>

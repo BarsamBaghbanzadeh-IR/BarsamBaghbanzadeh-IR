@@ -1,65 +1,68 @@
+<!-- 
+  ╔═══════════════════════════════════════════════════════════╗
+  ║  BARSAM BAGHBANZADEH | THE FUTURE OF AI IN HEALTHCARE   ║
+  ║  14 y/o Researcher • Sharif Certified • Rasht, Iran 🇮🇷  ║
+  ╚═══════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&animation=twinkling&color=gradient&height=250&section=header&text=BARSAM+BAGHBANZADEH&fontSize=80&fontAlignY=35&desc=14yo%20AI%20Researcher%20|%20Iran%20🇮🇷&descAlignY=80&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=BARSAM+BAGHBANZADEH&fontSize=70&fontAlignY=35&desc=AI+Researcher+%7C+Federated+Learning+%7C+HealthTech&descAlignY=80&descAlign=62&animation=twinkling" width="100%"/>
 </div>
 
-<h1 align="center">🐍 The Python Journey | مسیر یادگیری پایتون</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=800&lines=Learning+Python...;Mastering+Federated+Learning...;Building+Privacy-Preserving+AI...;14+y%2Fo+from+Rasht%2C+Iran+%F0%9F%87%AE%F0%9F%87%B7" alt="Typing SVG" />
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&height=50&lines=Learning+Python...;Mastering+AI...;Building+Future..." alt="Typing Effect"/>
+  <a href="https://github.com/barsambaghbanzadeh-ir"><img src="https://img.shields.io/github/followers/barsambaghbanzadeh-ir?label=Followers&style=social" alt="Followers"></a>
+  <a href="https://github.com/barsambaghbanzadeh-ir"><img src="https://komarev.com/ghp-readme-view-counter/api?user=barsambaghbanzadeh-ir&repo=barsambaghbanzadeh-ir" alt="Profile Views"></a>
+  <img src="https://img.shields.io/badge/Age-14-blue?style=flat-square" alt="Age">
+  <img src="https://img.shields.io/badge/Country-Iran%20🇮🇷-green?style=flat-square" alt="Country">
 </p>
 
+---
+
+### 🐍 Python Contribution Snake
 <div align="center">
-  <!-- Animated Snake SVG -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 100" width="500" height="100">
-    <defs>
-      <linearGradient id="snakeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#3776AB;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#FFD43B;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <path d="M10,50 Q50,10 90,50 T170,50 T250,50 T330,50 T410,50 T490,50" fill="none" stroke="url(#snakeGrad)" stroke-width="8" stroke-linecap="round">
-      <animate attributeName="d" dur="3s" repeatCount="indefinite" values="M10,50 Q50,10 90,50 T170,50 T250,50 T330,50 T410,50 T490,50; M10,50 Q50,90 90,50 T170,50 T250,50 T330,50 T410,50 T490,50; M10,50 Q50,10 90,50 T170,50 T250,50 T330,50 T410,50 T490,50" />
-    </path>
-    <circle cx="490" cy="50" r="10" fill="#FFD43B">
-      <animate attributeName="cx" dur="3s" repeatCount="indefinite" values="10;490;10" />
-      <animate attributeName="cy" dur="3s" repeatCount="indefinite" values="50;50;50" />
-    </circle>
-  </svg>
-  <br>
-  <sub><i>در حال یادگیری عمیق پایتون و هوش مصنوعی...</i></sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barsambaghbanzadeh-ir/barsambaghbanzadeh-ir/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/barsambaghbanzadeh-ir/barsambaghbanzadeh-ir/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/barsambaghbanzadeh-ir/barsambaghbanzadeh-ir/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
-### 🚀 About Me | درباره من
+### 🚀 Who Am I? | من کیستم؟
 
-> *"Age is just a number; Impact is everything."*
+> *"سن فقط یک عدد است؛ تأثیرگذاری همه چیز است."*
 
-سلام! من **برسام باغبان‌زاده** هستم. یک پژوهشگر **۱۴ ساله** اهل **رشت، ایران** 🇮🇷.
-من اینجا هستم تا قوانین بازی هوش مصنوعی را تغییر دهم. تمرکز من بر روی **یادگیری فدرال (Federated Learning)** و **سلامت دیجیتال** است. جایی که حریم خصوصی بیماران با قدرت هوش مصنوعی آشتی می‌کند.
+سلام! من **برسام باغبان‌زاده** هستم. یک پژوهشگر **۱۴ ساله** اهل **رشت، ایران** 🇮🇷.  
+من اینجا نیستم که فقط کد بنویسم؛ من اینجام تا قوانین بازی هوش مصنوعی در پزشکی را تغییر دهم. تمرکز من بر روی **یادگیری فدرال (Federated Learning)** است؛ جایی که حریم خصوصی بیماران با قدرت هوش مصنوعی آشتی می‌کند.
 
-- 🔭 **Current Focus:** یادگیری پیشرفته Python & AI Algorithms
-- 🌱 **Goal:** ایجاد استانداردهای جهانی برای حریم خصوصی داده‌های پزشکی
-- 💡 **Fun Fact:** من در ۱۴ سالگی گواهینامه هوش مصنوعی از دانشگاه شریف دارم!
+- 🔭 **Current Focus:** یادگیری عمیق Python & الگوریتم‌های FL
+- 🌱 **Mission:** ایجاد استانداردهای جهانی برای حریم خصوصی داده‌های پزشکی
+- 💡 **Fun Fact:** در ۱۴ سالگی گواهینامه هوش مصنوعی از **دانشگاه صنعتی شریف** دارم!
+- 🎯 **Goal:** رهبری علمی و تکنولوژیک در حوزه HealthTech
 
 ---
 
-### 🏆 Achievements & Certificates | دستاوردها و مدارک
+### 🏆 Achievements & Certificates | دستاوردها
 
 <div align="center">
 
-| 🎓 مدرک / عنوان | 🏢 مرجع / Institution | 📅 سال |
-| :--- | :--- | :--- |
-| **گواهینامه هوش مصنوعی** | دانشگاه صنعتی شریف (Sharif University) | ۱۴۰۲ |
-| **گواهینامه بین‌المللی ICDL** | سازمان فنی و حرفه‌ای | ۱۴۰۱ |
-| **مقاله پژوهشی: FL in Healthcare** | ژورنال داخلی / GitHub | ۱۴۰۳ |
-| **توسعه‌دهنده Open Source** | جامعه جهانی گیت‌هاب | مستمر |
+| 🎓 مدرک / عنوان | 🏢 مرجع / Institution | 📅 سال | وضعیت |
+| :--- | :--- | :--- | :--- |
+| **گواهینامه هوش مصنوعی** | دانشگاه صنعتی شریف (Sharif University) | ۱۴۰۲ | ✅ معتبر |
+| **گواهینامه بین‌المللی ICDL** | سازمان فنی و حرفه‌ای | ۱۴۰۱ | ✅ معتبر |
+| **مقاله پژوهشی: FL in Healthcare** | ژورنال داخلی / GitHub | ۱۴۰۳ | 📄 منتشر شده |
+| **توسعه‌دهنده Open Source** | جامعه جهانی گیت‌هاب | مستمر | 🚀 فعال |
 
 </div>
 
 ---
 
-### 🛠 Tech Stack & Tools | جعبه ابزار من
+### 🛠 Tech Stack | جعبه ابزار من
 
 <p align="center">
   <img src="https://skillicons.dev/get-icons?bg=ffffff&icons=python,tensorflow,pytorch,scikitlearn,pandas,numpy,jupyter,git,github,html,css,javascript,react,docker,kubernetes,aws,azure,linux,vscode" alt="Skills"/>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150" width="100%">
+  <defs>
+    <linearGradient id="snakeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3776AB;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FFD43B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3776AB;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Snake Body -->
+  <path d="M0,75 Q100,20 200,75 T400,75 T600,75 T800,75" 
+        fill="none" stroke="url(#snakeGrad)" stroke-width="15" stroke-linecap="round" filter="url(#glow)">
+    <animate attributeName="d" dur="3s" repeatCount="indefinite" 
+             values="M0,75 Q100,20 200,75 T400,75 T600,75 T800,75;
+                     M0,75 Q100,130 200,75 T400,75 T600,75 T800,75;
+                     M0,75 Q100,20 200,75 T400,75 T600,75 T800,75" />
+  </path>
+  
+  <!-- Snake Head -->
+  <circle cx="780" cy="75" r="18" fill="#FFD43B" filter="url(#glow)">
+    <animate attributeName="cy" dur="3s" repeatCount="indefinite" values="75;75;75" />
+  </circle>
+  
+  <!-- Eyes -->
+  <circle cx="773" cy="70" r="4" fill="#000"/>
+  <circle cx="787" cy="70" r="4" fill="#000"/>
+  
+  <!-- Tongue -->
+  <path d="M798,75 L810,75 M798,75 L810,70 M798,75 L810,80" 
+        stroke="#ff0000" stroke-width="2" fill="none">
+    <animate attributeName="opacity" dur="1s" repeatCount="indefinite" values="1;0;1" />
+  </path>
+</svg>

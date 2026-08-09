@@ -18,10 +18,9 @@ jobs:
             dist/snake-dark.svg?palette=github-dark
 
       - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v4.0.0
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
           force_orphan: true
-          keep_files: false

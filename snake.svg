@@ -9,7 +9,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # مرحله 1: ساخت انیمیشن مار با استفاده از ابزار Platane
       - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
@@ -18,11 +17,11 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      # مرحله 2: انتشار در شاخه output با استفاده از اکشن پایدار peaceiris
       - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@v4.0.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
           force_orphan: true
+          keep_files: false
